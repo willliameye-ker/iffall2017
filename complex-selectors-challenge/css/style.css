@@ -1,0 +1,64 @@
+
+
+header{
+	margin-bottom:3rem;
+}
+h2{
+	font-size:1rem;
+	text-transform:uppercase;
+	font-weight:lighter;
+}
+
+p{
+
+    line-height: 1.6;
+}
+
+.see-all {
+	font-size:0.8rem;
+	text-transform:uppercase;
+}
+
+.selected {
+	color:black;
+	font-weight:bold;
+}
+
+.seasons ul:last-child:after {
+	content:"*";
+}
+
+.synopsis:before {
+	font-size:0.7rem;
+	color:#999;
+	content:"* In production"
+}
+
+.shows h1{
+	border-top:1px solid red;
+	font-size:2.5rem;
+	font-weight:lighter;
+}
+
+img{
+	width:100%;
+}
+
+.cast {
+	width:25%;
+}
+
+.cast div {
+	font-size:0.8rem;
+	font-weight:bold;
+
+}
+
+.cast div:last-child {
+	font-style:italic;
+}
+
+
+
+
+
