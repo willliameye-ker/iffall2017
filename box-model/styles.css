@@ -1,0 +1,182 @@
+body {
+	font-family:'Archivo Narrow', sans-serif;
+	margin: 0;
+	padding: 0;
+	background-position: center top;
+	min-height: 2315px;
+
+	}
+
+#intro{
+	background-image: url(https://assets.vg247.com/current//2017/05/tom_holland_spider_man_1.jpg);
+	background-position: center-top;
+	background-size: cover;
+	width: 100%;
+	height:500px;
+	padding-top: 10px;
+}
+
+#intro h1{
+	padding-top: 155px;
+	font-size:80px;
+	text-align:center;
+	color:#00008B;
+}
+
+#intro h2{
+	font-size: 50px;
+	text-align: center;
+	color:#00008B;
+
+}
+	
+
+#section_1 h3{
+	width: 100px;
+	font-weight: bold;
+	padding-top:10px;
+	padding-left: 700px;
+	text-align: center;
+	font-size: 40px;
+	color:#00008B;
+}
+
+#section_1_content{
+	width: 900px;
+	padding-top: 33px;
+	font-size:10px;
+	color:#00008B;
+	text-align: center;
+}
+
+#section_1 {
+		background-color:rgba(57,174,174,1.0);
+		height: 650px;
+		margin-top:-70px;
+		margin-bottom: 40px;
+}	
+
+#section_1 p{
+	color:#00008B;
+	font-size:18px;
+	text-align: left;
+	width: 900px;
+	height: 500px;
+	margin-left: 230px;
+
+}
+
+#section_1 img {
+	height: 300px;
+	width: auto;
+	float: right;
+	padding-left: 10px;
+	padding-right: 100px;
+	padding-bottom: 10px;
+	float: right;
+}
+
+section#section_2 {
+		background-color:rgba(255,99,71,1.0);
+		height: 580px;
+		margin-top: -40px;
+}
+
+section#section_2 h3{
+	width: 100px;
+	font-weight: bold;
+	padding-top:10px;
+	padding-left: 700px;
+	text-align: center;
+	font-size: 40px;
+	color:#00008B;
+}
+
+#left {
+	display: inline-block;
+	width: 35%;
+	padding-right: 30px;
+	padding-bottom: -130px;
+	margin-top:-20px;
+	padding-left: 100px;
+	float: left;
+	font-size: 18px;
+
+
+}
+
+
+#left img{
+	float: left;
+	padding-bottom: 70px;
+	padding-left: 110px;
+	margin-top: -50px;
+}
+
+#right {
+	display: inline-block;
+	width: 50%;
+	float: right;
+	padding-left: 30px;
+	padding-bottom: -110px;
+	padding-right: 100px;
+	margin-top:0px;
+	font-size: 25px;
+}
+
+#right img{
+	float: right;
+	height: 150px;
+	width: auto;
+	margin-top: -70px;
+	padding-bottom: 40px;
+}
+
+
+
+section#section_3 {
+		background-color:rgba(57,174,174,1.0);
+		height: 270px;
+		margin-top: 480px;
+		padding-bottom: 200px;
+		text-align: center;
+		padding-left: 180px;
+		padding-right: 180px;
+		font-size: 25px;
+	}
+
+#section_3 {
+	background-color:rgba(57,174,174,1.0);
+	height: 200px;
+	width: 50%
+	font-size: 30px;
+}
+
+section#section_4 {
+	background-color:rgba(255,99,71,1.0);
+	height: 150px;
+	padding-top: 20px;
+	font-size: 18px;
+	padding-left: 15px;
+}
+
+
+
+/*#section_3 {
+		background-color:rgba(57,174,174,1.0);
+		height: 710px;
+		width:900;
+		margin-top:-70px;
+		margin-bottom: 40px;}
+
+#section_3 h3{
+	width: 100px;
+	font-weight: bold;
+	padding-top:10px;
+	padding-left: 700px;
+	text-align: center;
+	font-size: 40px;
+	color:#00008B;
+}
+
+
