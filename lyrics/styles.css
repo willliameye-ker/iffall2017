@@ -1,0 +1,76 @@
+body {
+	background-size:cover;
+	background-color: #FF5271;
+}
+
+h1{
+font-family: 'Gravitas One';
+color:#FFFFFF;
+font-size: 100px;
+padding-right: 50px;
+letter-spacing: 2px;
+}
+
+#rose1{
+	position: absolute;
+	float: right;
+	left: 1100px;
+	bottom: 450px;
+}
+
+#rose2{
+	position: absolute;
+	float: left;
+	right: 1160px;
+	top: 575px;
+}
+
+#rose3{
+	position: absolute;
+	transform: rotate(180deg);
+	float: right;
+	top: 1300px;
+	left: 1100px;}
+
+#rosepetal{
+	position: fixed;
+	float: left;
+	left: 370px;
+	bottom: 500px;
+	width: 175px;
+	height: auto;
+}  
+
+
+h2{
+font-family: 'Gravitas One';
+color:#FFFFFF;
+font-size: 80px;
+letter-spacing: 2px;
+right:10px;
+position:absolute;
+}
+
+section#section1 p{
+font-family: 'Raleway';
+text-align: center;
+color: #FFFFFF;
+font-size: 15px;
+font-weight: normal;
+position: absolute;
+left: 545px;
+right: 545px;
+line-height: 20px;
+margin-top: 0px;
+}
+
+h3{
+font-family: 'Raleway';
+font-size: 15px;
+font-weight: bold;
+text-align: center;
+color:#FFFFFF ;
+line-height: 7px;
+margin-bottom: 10px;
+}
+
