@@ -1,0 +1,91 @@
+body {
+	background-size:cover;
+	background-image: url(http://www.photos-public-domain.com/wp-content/uploads/2012/10/hot-pink-fur-texture.jpg);
+	background-size: 4500px;
+	height: 150%;
+}
+
+h1{
+font-family: 'Gravitas One';
+color:#FFFFFF;
+font-size: 100px;
+padding-right: 50px;
+letter-spacing: 2px;
+}
+
+#rose1{
+	position: absolute;
+	float: right;
+	left: 80%;
+	bottom: 55%;
+}
+
+#rose2{
+	position: absolute;
+	float: left;
+	right: 80%;
+	top: 80%;
+}
+
+#rose3{
+	position: absolute;
+	transform: rotate(180deg);
+	float: right;
+	top: 170%;
+	left: 80%;}
+
+#rosepetal{
+	position: fixed;
+	float: left;
+	left: 370px;
+	bottom: 500px;
+	width: 175px;
+	height: auto;
+}  
+
+
+h2{
+font-family: 'Gravitas One';
+color:#FFFFFF;
+font-size: 80px;
+letter-spacing: 2px;
+right:10px;
+position:absolute;
+}
+
+section#section1 p{
+font-family: 'Raleway';
+text-align: center;
+color: #FFFFFF;
+font-size: 15px;
+font-style: italic;
+position: absolute;
+left: 545px;
+right: 545px;
+line-height: 20px;
+margin-top: 0px;
+}
+
+section#section2 p{
+	font-family: 'Raleway';
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 15px;
+	font-weight: italic;
+	position: absolute;
+	left: 545px;
+	right: 545px;
+	line-height: 20px;
+	margin-top: 0px;
+}
+
+h3{
+font-family: 'Raleway';
+font-size: 17px;
+font-weight: bold;
+text-align: center;
+color:#FFFFFF ;
+line-height: 7px;
+margin-bottom: 10px;
+}
+
